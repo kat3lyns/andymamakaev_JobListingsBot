@@ -1,0 +1,16 @@
+{
+    "bot_token": "XXXXXXXXXXXXXXXXXXXX",
+    "mainguild_id": "922298888994553917",
+    "mainguild_pendingapps_channelid": "1042227651496136834",
+    "mainguild_pendinglistings_channelid": "1042461088417067028",
+    "mainguild_joblistings_channelid": "1042227603718815834",
+    "mainguild_lookingforwork_channelid": "1042227562748854385",
+
+    "mysql": {
+        "host": "XXXXXXXXXXXXXXXXXXXX",
+        "post": "XXXXXXXXXXXXXXXXXXXX",
+        "username": "XXXXXXXXXXXXXXXXXXXX",
+        "password": "XXXXXXXXXXXXXXXXXXXX",
+        "database": "XXXXXXXXXXXXXXXXXXXX"
+    }
+}
